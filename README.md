@@ -4,8 +4,6 @@ Memory Companion is a web app designed to bridge the communication gap between s
 
 While family members know a senior's personal stories, interests, and favorite memories, caregivers at senior care homes don't always have easy access to this background info. Memory Companion gives families a place to upload key milestones, stories, and personal preferences, which are summarized into quick profiles for staff. It also includes an AI prompt generator to give caregivers personalized conversation starters for their daily shifts.
 
-This project was built as an IB CAS Project in consultation with Lindy Tymura, a caregiver at Tall Pines Long Term Care in Brampton, Ontario.
-
 ## Features
 
 - Family Story Submissions: Family members can add stories, background details, and personal preferences to a resident's profile.
